@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Isaiah Klein Hollen Resume</title>
+        <style>
+            body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #b34e00;
+            }
+            .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            max-width: 900px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+            h1 {
+            color: #b34e00;
+            font-size: 28px;
+            }
+            h2 {
+            color: #b34e00;
+            margin-top: 30px;
+            }
+            .contact {
+            text-align: right;
+            }
+            .section{
+            margin-bottom: 20px;
+            }
+            ul {
+            padding-left: 20px;
+            }
+            .skills ul {
+            columns: 2;
+            }
+            a {
+            color: #b34e00;
+            text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Isaiah Klein Hollen</h1>
+                <div class="contact">
+                <p>Los Angeles, CA 90015<br>
+                480-238-5452<br>
+                <a href="mailto:hollenisaiah@gmail.com">hollenisaiah@gmail.com</a></p>
+            </div>
+            <div class="section">
+                <p>Im an experienced Web Developer with passion for creating attractive and interactive websites meeting customer needs and exceeding expectations.</p>
+            </div>
+            <h2>Work History</h2>
+            <div class="section">
+                <p><strong>Work Study Student</strong><br>
+                Job Corps Trade School, Los Angeles, CA<br>
+                <em>July 2024 - July 2026</em></p>
+                <ul>
+                    <li>Coded websites using HTML, CSS, and JavaScript languages.</li>
+                    <li>Planned website development, converting mockups into usable web presence with HTML, and JavaScript.</li>
+                    <li>Adhered to SEO best practices while designing sites.</li>
+                    <li>Developed user-oriented visuals and features using front-end languages to increase site traffic.</li>
+                </ul>
+            </div>
+            <h2>Education</h2>
+            <div class="section">
+                <p><strong>No Degree in Web Development</strong><br>
+                JobCorps, Los Angeles, CA<br>
+                <em>Expected in August 2025</em></p>
+                <p><strong>High School Diploma</strong><br>
+                Sierra Linda High School, Phoenix, AZ<br>
+                <em>May 2023</em></p>
+            </div>
+            <h2>Projects</h2>
+            <div class="section">
+                <ul>
+                <li><a href="https://isaiah-hollen.github.io/Simply_Coding_Project_1/" target="_blank">about_me</a></li>
+                </ul>
+            </div>
+            <h2>Skills</h2>
+            <div class="section skills">
+                <ul>
+                    <li>Software testing</li>
+                    <li>Web development projects</li>
+                    <li>Interface design</li>
+                    <li>Programming</li>
+                    <li>SEO techniques</li>
+                    <li>Problem-solving</li>
+                    <li>Scripting</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>C++</li>
+                    <li>Coding standards</li>
+                    <li>Javascript</li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
